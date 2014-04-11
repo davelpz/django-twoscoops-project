@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 NAME="proj"                                  # Name of the application
 DJANGODIR=/opt/projprod/proj_project/proj_project      # Django project directory
